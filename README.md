@@ -1,4 +1,5 @@
 # Notes
+The Design of Everyday Things- User-Centered Design
 
 The book explains how to advocate a user-centered design which is a philosophy that things should be designed with the needs and interests of the user in mind, making products that are easy to use and understand.
 
